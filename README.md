@@ -39,7 +39,7 @@ If the question is answered incorrectly the correct answer is automatically high
 If the timer reaches 0 the correct answer is highlighted.
 When all questions are answered the game is over
 When the game is over player has the option to quit or replay
-
+https://tinastouch.github.io/Code-quiz-new/
   
 
   ## Contributing
