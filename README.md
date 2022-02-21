@@ -1,37 +1,60 @@
-# Code-Quiz 
+# My Code-Quiz
+  
 
-#Objective
-Presented with a code quiz
-Click the start button
+  ## About The Project
+
+This project was designed to be a quiz that is on a timer that will test your java script knowledge.
+
+  ## Table of Contents
+
+  * [Installation](#installation)
+
+  * [Built With](#languages)
+  
+  * [Usage](#usage)
+
+  * [Contributing](#contributing)
+
+  * [Screenshot](#screenshot)
+
+  * [Questions](#questions)
+
+  ## Installation
+
+none
+
+  ## Built With
+
+  JavaScript,HTML,CSS,
+  
+  ## Usage
+
+Presented with a Quiz to test your JS
+Click the start button 
+you will be prompted with an information box on the rules of the game
 A timer starts and I am presented with a question
-When a question is answered another one is presented
-When I answer a question incorrectly time is subtracted from the clock
-When all questions are answered or the timer reaches 0
-The game is over
-When the game is over player can save their initials and score
+When a question is answered the clock stops and you can not select another answer.
+After answering the next button appears to proceed to the following question and clock restarts at 15 secs
+If the question is answered incorrectly the correct answer is automatically highlighted.
+If the timer reaches 0 the correct answer is highlighted.
+When all questions are answered the game is over
+When the game is over player has the option to quit or replay
+
+  
+
+  ## Contributing
+
+TA assistance Estiven and Tutor assistance Joem Casusi
+
+## ScreenShot
 
 
-#Languages
-HTML
-CSS
-JS
+## Questions
 
-Technologies
-Git Hub: Create Repository
-Terminal: Push and Pull repository
-Visual code: To write HTML, CSS and JS
+If you have any questions about the repo, open an issue or contact me directly at
+tinastouch@gmail.com. 
 
-#Process
-1. We pulled repository from UofT repository.
-2. We created a start button
-3. We created questions
-4. We designed the css
-4. Added timer and counter
+You can find more of my work at https://github.com/tinastouch.
 
 
-#Project (Partial)
 
-URL of the deployed application
-URL of the GitHub repository
-
-By Tina Sutherland and Constance
