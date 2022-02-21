@@ -47,6 +47,11 @@ When the game is over player has the option to quit or replay
 TA assistance Estiven and Tutor assistance Joem Casusi
 
 ## ScreenShot
+<img width="948" alt="Screen Shot 2022-02-20 at 11 16 35 PM" src="https://user-images.githubusercontent.com/93742788/154888391-ee0e8d68-e718-46d2-8514-c5103f5fcc48.png">
+<img width="948" alt="Screen Shot 2022-02-20 at 11 16 50 PM" src="https://user-images.githubusercontent.com/93742788/154888392-ab7307ef-b67f-4f5c-b570-5f82cdd3e8bd.png">
+<img width="952" alt="Screen Shot 2022-02-20 at 11 17 14 PM" src="https://user-images.githubusercontent.com/93742788/154888396-a9d17dc7-a245-44e4-b5c1-10dedacef48b.png">
+<img width="952" alt="Screen Shot 2022-02-20 at 11 17 32 PM" src="https://user-images.githubusercontent.com/93742788/154888398-8740eb77-4fed-427f-b613-c4af4f9b3e56.png">
+<img width="952" alt="Screen Shot 2022-02-20 at 11 17 46 PM" src="https://user-images.githubusercontent.com/93742788/154888400-e6a5ca3d-ba59-4903-81cc-a98cb34ee46d.png">
 
 
 ## Questions
